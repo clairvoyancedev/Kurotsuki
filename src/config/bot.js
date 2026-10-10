@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "Custom Status", // required by Discord API, not shown in the client
-        state: "kürt sikiyor",     // this is what people actually see
+        state: "Kurotsuki sunucusunun yakışıklı ve seksi özel botu.",     // this is what people actually see
         type: 4,               // Custom
       },
     ],
