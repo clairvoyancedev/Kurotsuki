@@ -761,7 +761,7 @@ async function handleGoodbyePing(selectInteraction, rootInteraction, cfg, guildI
     await sendEphemeralFollowUp(selectInteraction, {
         embeds: [
             successEmbed(
-                '✅ Goodbye Ping Updated',
+                '✅ ananın amı kanka',
                 `Leaving users will${cfg.goodbyePing ? '' : ' **not**'} be pinged in the goodbye message.`,
             ),
         ],
